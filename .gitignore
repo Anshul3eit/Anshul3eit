@@ -1,0 +1,98 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+
+# NuGet
+*.nupkg
+.packages/
+.nuget/
+
+# Visual Studio Code
+.vscode/
+
+# Local history and OS files
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# User secrets
+secrets.json
+secrets.dev.json
+
+# IIS Express
+/.vs/
+/.vs/*
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.cache
+*.zip
+
+# Rider caches
+.idea/
+*.iml
+
+# dotCover
+.idea/**/dotCover*
+
+# EF Core Migrations
+Migrations/DesignTime/*
+
+# JetBrains Rider
+.idea/
+
+# Azure
+csx/
+*.publish.xml
+
+# OS generated files
+ehthumbs.db
+Icon
+
+# Local launch settings
+Properties/launchSettings.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Test result files
+TestResults/
+
+# Coverage
+coverage*
+
+# Packages
+*.nupkg
+
+# Lock files
+project.lock.json
+
+# Others
+*.userprefs
+
+# End
